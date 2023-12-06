@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/recursion-list3/binary-conversion/binary-conversion.iml" filepath="$PROJECT_DIR$/recursion-list3/binary-conversion/binary-conversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/data-structure.iml" filepath="$PROJECT_DIR$/.idea/data-structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion-list3/digit-display-quantity/digit-display-quantity.iml" filepath="$PROJECT_DIR$/recursion-list3/digit-display-quantity/digit-display-quantity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion-list2/division-remainder/division-remainder.iml" filepath="$PROJECT_DIR$/recursion-list2/division-remainder/division-remainder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion-list2/dual-factorial/dual-factorial.iml" filepath="$PROJECT_DIR$/recursion-list2/dual-factorial/dual-factorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion-list1/factorial/factorial.iml" filepath="$PROJECT_DIR$/recursion-list1/factorial/factorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion-list3/fibonacci/fibonacci.iml" filepath="$PROJECT_DIR$/recursion-list3/fibonacci/fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion-list1/lowest-vector-value/lowest-vector-value.iml" filepath="$PROJECT_DIR$/recursion-list1/lowest-vector-value/lowest-vector-value.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion-list2/maximum-common-divisor/maximum-common-divisor.iml" filepath="$PROJECT_DIR$/recursion-list2/maximum-common-divisor/maximum-common-divisor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion-list2/multiplication-by-sum/multiplication-by-sum.iml" filepath="$PROJECT_DIR$/recursion-list2/multiplication-by-sum/multiplication-by-sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion-list2/quantity-even-numbers/quantity-even-numbers.iml" filepath="$PROJECT_DIR$/recursion-list2/quantity-even-numbers/quantity-even-numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion-list1/quantity-negative-numbers/quantity-negative-numbers.iml" filepath="$PROJECT_DIR$/recursion-list1/quantity-negative-numbers/quantity-negative-numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion-list3/quantity-number-digits/quantity-number-digits.iml" filepath="$PROJECT_DIR$/recursion-list3/quantity-number-digits/quantity-number-digits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion-list3/reverse-string/reverse-string.iml" filepath="$PROJECT_DIR$/recursion-list3/reverse-string/reverse-string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion-list1/serie-summation/serie-summation.iml" filepath="$PROJECT_DIR$/recursion-list1/serie-summation/serie-summation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion-list3/serie-summation/serie-summation1.iml" filepath="$PROJECT_DIR$/recursion-list3/serie-summation/serie-summation1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion-list1/sum-natural-numbers/sum-natural-numbers.iml" filepath="$PROJECT_DIR$/recursion-list1/sum-natural-numbers/sum-natural-numbers.iml" />
+    </modules>
+  </component>
+</project>

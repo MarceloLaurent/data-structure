@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="merge-sort:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/merge_sort_jar</output-path>
+    <root id="archive" name="merge-sort.jar">
+      <element id="module-output" name="merge-sort" />
+    </root>
+  </artifact>
+</component>

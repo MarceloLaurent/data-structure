@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="merge-sort">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../ordination-list1/exercise3/merge-sort/out/artifacts/merge_sort_jar/merge-sort.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

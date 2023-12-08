@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bubble-sort">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../ordination-list1/exercise3/bubble-sort/out/artifacts/bubble_sort_jar/bubble-sort.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

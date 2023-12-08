@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="quick-sort">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../exercise4/quick-sort/out/artifacts/quick_sort_jar/quick-sort.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

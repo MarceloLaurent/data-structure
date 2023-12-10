@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="stack-integer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../stack-list1/exercise3/stack-integer/out/artifacts/stack_integer_jar/stack-integer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

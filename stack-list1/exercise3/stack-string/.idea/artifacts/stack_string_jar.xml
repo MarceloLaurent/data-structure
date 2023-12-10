@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="stack-string:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/stack_string_jar</output-path>
+    <root id="archive" name="stack-string.jar">
+      <element id="module-output" name="stack-string" />
+    </root>
+  </artifact>
+</component>

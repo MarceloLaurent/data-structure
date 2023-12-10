@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="stack-integer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/stack_integer_jar</output-path>
+    <root id="archive" name="stack-integer.jar">
+      <element id="module-output" name="stack-integer" />
+    </root>
+  </artifact>
+</component>

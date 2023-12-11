@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="queue-generic">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../exercise3/queue-generic/out/artifacts/queue_generic_jar/queue-generic.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
